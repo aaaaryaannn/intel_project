@@ -2,7 +2,7 @@
 #include <stdlib.h> // For the exit() function
 
 int main() {
-    int choice, quantity;
+    int input, quantity;
     float total = 0, tax = 0;
     int s_charge = 50;
 
@@ -19,10 +19,10 @@ int main() {
     do {
         // Get the customer's choice
         printf("\nEnter your choice (1-5): ");
-        scanf("%d", &choice);
+        scanf("%d", &input);
 
         // Process the customer's choice
-        switch (choice) {
+        switch (input) {
             case 1:
                 // Get the quantity and calculate the total cost for Pasta
                 printf("Enter the quantity: ");
@@ -60,7 +60,7 @@ int main() {
                 // Display an error message for an invalid choice
                 printf("Invalid choice. Please try again.\n");
         }
-    } while (choice != 5);
+    } while (input != 5);
 
     return 0;
 }
