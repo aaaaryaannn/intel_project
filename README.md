@@ -28,7 +28,7 @@ Step IV: Run the program by running the command ./arithmetic_calculator.<br>
 Repeat the above steps for each program you wish to use.
 
 # Contributions
-This project was created by *Aryan Varale* and *Sanjana Jaiswal*. We welcome contributions from anyone who would like to add additional programs or improve the existing ones. To contribute, simply fork the project, make your changes, and submit a pull request.
+This project was created by <b>Aryan Varale</b> and <b>Sanjana Jaiswal</b>. We welcome contributions from anyone who would like to add additional programs or improve the existing ones. To contribute, simply fork the project, make your changes, and submit a pull request.
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for more information.
